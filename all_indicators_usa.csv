@@ -1,0 +1,1713 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+num
+United States,USA,2018,"Population, total",SP.POP.TOTL,328123000
+United States,USA,2017,"Population, total",SP.POP.TOTL,325719178
+United States,USA,2016,"Population, total",SP.POP.TOTL,323405935
+United States,USA,2015,"Population, total",SP.POP.TOTL,321039839
+United States,USA,2014,"Population, total",SP.POP.TOTL,318622525
+United States,USA,2013,"Population, total",SP.POP.TOTL,316234505
+United States,USA,2012,"Population, total",SP.POP.TOTL,313993272
+United States,USA,2011,"Population, total",SP.POP.TOTL,311644280
+United States,USA,2010,"Population, total",SP.POP.TOTL,309338421
+United States,USA,2009,"Population, total",SP.POP.TOTL,306771529
+United States,USA,2008,"Population, total",SP.POP.TOTL,304093966
+United States,USA,2007,"Population, total",SP.POP.TOTL,301231207
+United States,USA,2006,"Population, total",SP.POP.TOTL,298379912
+United States,USA,2005,"Population, total",SP.POP.TOTL,295516599
+United States,USA,2004,"Population, total",SP.POP.TOTL,292805298
+United States,USA,2003,"Population, total",SP.POP.TOTL,290107933
+United States,USA,2002,"Population, total",SP.POP.TOTL,287625193
+United States,USA,2001,"Population, total",SP.POP.TOTL,284968955
+United States,USA,2000,"Population, total",SP.POP.TOTL,282162411
+United States,USA,1999,"Population, total",SP.POP.TOTL,279040000
+United States,USA,1998,"Population, total",SP.POP.TOTL,275854000
+United States,USA,1997,"Population, total",SP.POP.TOTL,272657000
+United States,USA,1996,"Population, total",SP.POP.TOTL,269394000
+United States,USA,1995,"Population, total",SP.POP.TOTL,266278000
+United States,USA,1994,"Population, total",SP.POP.TOTL,263126000
+United States,USA,1993,"Population, total",SP.POP.TOTL,259919000
+United States,USA,1992,"Population, total",SP.POP.TOTL,256514000
+United States,USA,1991,"Population, total",SP.POP.TOTL,252981000
+United States,USA,1990,"Population, total",SP.POP.TOTL,249623000
+United States,USA,1989,"Population, total",SP.POP.TOTL,246819000
+United States,USA,1988,"Population, total",SP.POP.TOTL,244499000
+United States,USA,1987,"Population, total",SP.POP.TOTL,242289000
+United States,USA,1986,"Population, total",SP.POP.TOTL,240133000
+United States,USA,1985,"Population, total",SP.POP.TOTL,237924000
+United States,USA,1984,"Population, total",SP.POP.TOTL,235825000
+United States,USA,1983,"Population, total",SP.POP.TOTL,233792000
+United States,USA,1982,"Population, total",SP.POP.TOTL,231664000
+United States,USA,1981,"Population, total",SP.POP.TOTL,229466000
+United States,USA,1980,"Population, total",SP.POP.TOTL,227225000
+United States,USA,1979,"Population, total",SP.POP.TOTL,225055000
+United States,USA,1978,"Population, total",SP.POP.TOTL,222585000
+United States,USA,1977,"Population, total",SP.POP.TOTL,220239000
+United States,USA,1976,"Population, total",SP.POP.TOTL,218035000
+United States,USA,1975,"Population, total",SP.POP.TOTL,215973000
+United States,USA,1974,"Population, total",SP.POP.TOTL,213854000
+United States,USA,1973,"Population, total",SP.POP.TOTL,211909000
+United States,USA,1972,"Population, total",SP.POP.TOTL,209896000
+United States,USA,1971,"Population, total",SP.POP.TOTL,207661000
+United States,USA,1970,"Population, total",SP.POP.TOTL,205052000
+United States,USA,1969,"Population, total",SP.POP.TOTL,202677000
+United States,USA,1968,"Population, total",SP.POP.TOTL,200706000
+United States,USA,1967,"Population, total",SP.POP.TOTL,198712000
+United States,USA,1966,"Population, total",SP.POP.TOTL,196560000
+United States,USA,1965,"Population, total",SP.POP.TOTL,194303000
+United States,USA,1964,"Population, total",SP.POP.TOTL,191889000
+United States,USA,1963,"Population, total",SP.POP.TOTL,189242000
+United States,USA,1962,"Population, total",SP.POP.TOTL,186538000
+United States,USA,1961,"Population, total",SP.POP.TOTL,183691000
+United States,USA,1960,"Population, total",SP.POP.TOTL,180671000
+United States,USA,2018,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,24.1644762736726
+United States,USA,2017,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,23.46961267658
+United States,USA,2016,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,22.7955883537936
+United States,USA,2015,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,22.1331104149771
+United States,USA,2014,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,21.50196408274
+United States,USA,2013,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,20.8996392436237
+United States,USA,2012,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,20.3364803204569
+United States,USA,2011,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,19.8333377338469
+United States,USA,2010,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,19.4027570843696
+United States,USA,2009,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,19.0551555750231
+United States,USA,2008,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.8031257513218
+United States,USA,2007,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.6295367815941
+United States,USA,2006,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.5027383135198
+United States,USA,2005,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.3971717478756
+United States,USA,2004,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.4058154067198
+United States,USA,2003,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.4442347840066
+United States,USA,2002,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.5060094531487
+United States,USA,2001,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.5853103574055
+United States,USA,2000,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.6729932460313
+United States,USA,1999,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.8245289675469
+United States,USA,1998,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.9896921299173
+United States,USA,1997,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,19.1504548044284
+United States,USA,1996,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,19.2831279213616
+United States,USA,1995,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,19.3684882413535
+United States,USA,1994,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,19.429283280493
+United States,USA,1993,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,19.4406192493078
+United States,USA,1992,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,19.4056770427405
+United States,USA,1991,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,19.3312874435632
+United States,USA,1990,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,19.2171707828778
+United States,USA,1989,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,19.0739289025313
+United States,USA,1988,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.904803114592
+United States,USA,1987,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.716699629606
+United States,USA,1986,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.5185761979017
+United States,USA,1985,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.3123549746692
+United States,USA,1984,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,18.1436836263836
+United States,USA,1983,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,17.9922411805999
+United States,USA,1982,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,17.857684501605
+United States,USA,1981,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,17.7275243436951
+United States,USA,1980,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,17.5834235536363
+United States,USA,1979,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,17.3874807644826
+United States,USA,1978,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,17.2030998309899
+United States,USA,1977,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,17.035545739596
+United States,USA,1976,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,16.8782091206821
+United States,USA,1975,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,16.712176780485
+United States,USA,1974,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,16.6441683969139
+United States,USA,1973,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,16.570250661818
+United States,USA,1972,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,16.4958439817412
+United States,USA,1971,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,16.4139851511457
+United States,USA,1970,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,16.3041360375381
+United States,USA,1969,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,16.2118808508638
+United States,USA,1968,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,16.089119181673
+United States,USA,1967,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,15.9481804268516
+United States,USA,1966,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,15.8024549726083
+United States,USA,1965,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,15.6545024638374
+United States,USA,1964,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,15.5841915246417
+United States,USA,1963,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,15.5168132027967
+United States,USA,1962,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,15.4422368803747
+United States,USA,1961,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,15.3326514413342
+United States,USA,1960,"Age dependency ratio, old (% of working-age population)",SP.POP.DPND.OL,15.1621000734886
+United States,USA,2018,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,28.810130288357
+United States,USA,2017,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,28.7986618496378
+United States,USA,2016,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,28.8567597929418
+United States,USA,2015,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,29.0457912948033
+United States,USA,2014,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,29.2057570687886
+United States,USA,2013,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,29.4200356639911
+United States,USA,2012,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,29.67335461149
+United States,USA,2011,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,29.9367617848164
+United States,USA,2010,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,30.1731282740986
+United States,USA,2009,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,30.3865989279998
+United States,USA,2008,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,30.6443036520049
+United States,USA,2007,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,30.9216243648532
+United States,USA,2006,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,31.141537708483
+United States,USA,2005,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,31.2457903254458
+United States,USA,2004,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,31.6638704051164
+United States,USA,2003,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,31.9939304501115
+United States,USA,2002,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,32.2540508447548
+United States,USA,2001,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,32.5287135596357
+United States,USA,2000,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,32.8894688515911
+United States,USA,1999,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,33.1440865506577
+United States,USA,1998,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,33.3970866324256
+United States,USA,1997,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,33.6211287811719
+United States,USA,1996,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,33.7447077120851
+United States,USA,1995,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,33.7130273641934
+United States,USA,1994,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,33.7507129137299
+United States,USA,1993,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,33.6857324750511
+United States,USA,1992,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,33.5219345544895
+United States,USA,1991,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,33.2866687487411
+United States,USA,1990,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,33.0089924015713
+United States,USA,1989,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,32.9041983256465
+United States,USA,1988,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,32.7983497160896
+United States,USA,1987,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,32.7063731446394
+United States,USA,1986,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,32.6412983786759
+United States,USA,1985,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,32.6120895996315
+United States,USA,1984,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,32.8151026307868
+United States,USA,1983,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,33.0871572495035
+United States,USA,1982,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,33.4461626728882
+United States,USA,1981,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,33.9191779237465
+United States,USA,1980,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,34.5091792177563
+United States,USA,1979,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,35.248738439318
+United States,USA,1978,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,36.120921344939
+United States,USA,1977,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,37.0799712925657
+United States,USA,1976,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,38.0344159601517
+United States,USA,1975,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,38.9172150976644
+United States,USA,1974,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,40.221088071735
+United States,USA,1973,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,41.5197432775271
+United States,USA,1972,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,42.8045977548865
+United States,USA,1971,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,44.1038286305664
+United States,USA,1970,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,45.4507315177165
+United States,USA,1969,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,46.4893227801722
+United States,USA,1968,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,47.4311341027311
+United States,USA,1967,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,48.2740030503482
+United States,USA,1966,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,49.0347626144058
+United States,USA,1965,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,49.7231167744151
+United States,USA,1964,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,50.3432672998155
+United States,USA,1963,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,50.8789107923474
+United States,USA,1962,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,51.2577728264705
+United States,USA,1961,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,51.329108276432
+United States,USA,1960,"Age dependency ratio, young (% of working-age population)",SP.POP.DPND.YG,50.9863185760537
+United States,USA,2018,Number of infant deaths,SH.DTH.IMRT,
+United States,USA,2017,Number of infant deaths,SH.DTH.IMRT,22943
+United States,USA,2016,Number of infant deaths,SH.DTH.IMRT,23037
+United States,USA,2015,Number of infant deaths,SH.DTH.IMRT,23184
+United States,USA,2014,Number of infant deaths,SH.DTH.IMRT,23413
+United States,USA,2013,Number of infant deaths,SH.DTH.IMRT,23742
+United States,USA,2012,Number of infant deaths,SH.DTH.IMRT,24170
+United States,USA,2011,Number of infant deaths,SH.DTH.IMRT,24677
+United States,USA,2010,Number of infant deaths,SH.DTH.IMRT,25225
+United States,USA,2009,Number of infant deaths,SH.DTH.IMRT,26116
+United States,USA,2008,Number of infant deaths,SH.DTH.IMRT,26611
+United States,USA,2007,Number of infant deaths,SH.DTH.IMRT,27015
+United States,USA,2006,Number of infant deaths,SH.DTH.IMRT,27670
+United States,USA,2005,Number of infant deaths,SH.DTH.IMRT,27869
+United States,USA,2004,Number of infant deaths,SH.DTH.IMRT,27987
+United States,USA,2003,Number of infant deaths,SH.DTH.IMRT,27717
+United States,USA,2002,Number of infant deaths,SH.DTH.IMRT,27777
+United States,USA,2001,Number of infant deaths,SH.DTH.IMRT,27852
+United States,USA,2000,Number of infant deaths,SH.DTH.IMRT,27974
+United States,USA,1999,Number of infant deaths,SH.DTH.IMRT,28496
+United States,USA,1998,Number of infant deaths,SH.DTH.IMRT,28762
+United States,USA,1997,Number of infant deaths,SH.DTH.IMRT,29426
+United States,USA,1996,Number of infant deaths,SH.DTH.IMRT,30480
+United States,USA,1995,Number of infant deaths,SH.DTH.IMRT,31568
+United States,USA,1994,Number of infant deaths,SH.DTH.IMRT,32651
+United States,USA,1993,Number of infant deaths,SH.DTH.IMRT,33692
+United States,USA,1992,Number of infant deaths,SH.DTH.IMRT,34990
+United States,USA,1991,Number of infant deaths,SH.DTH.IMRT,36187
+United States,USA,1990,Number of infant deaths,SH.DTH.IMRT,36942
+United States,USA,1989,Number of infant deaths,SH.DTH.IMRT,37924
+United States,USA,1988,Number of infant deaths,SH.DTH.IMRT,38500
+United States,USA,1987,Number of infant deaths,SH.DTH.IMRT,38693
+United States,USA,1986,Number of infant deaths,SH.DTH.IMRT,39151
+United States,USA,1985,Number of infant deaths,SH.DTH.IMRT,39541
+United States,USA,1984,Number of infant deaths,SH.DTH.IMRT,39856
+United States,USA,1983,Number of infant deaths,SH.DTH.IMRT,40405
+United States,USA,1982,Number of infant deaths,SH.DTH.IMRT,41196
+United States,USA,1981,Number of infant deaths,SH.DTH.IMRT,41952
+United States,USA,1980,Number of infant deaths,SH.DTH.IMRT,43016
+United States,USA,1979,Number of infant deaths,SH.DTH.IMRT,44143
+United States,USA,1978,Number of infant deaths,SH.DTH.IMRT,45661
+United States,USA,1977,Number of infant deaths,SH.DTH.IMRT,47612
+United States,USA,1976,Number of infant deaths,SH.DTH.IMRT,49759
+United States,USA,1975,Number of infant deaths,SH.DTH.IMRT,52410
+United States,USA,1974,Number of infant deaths,SH.DTH.IMRT,55287
+United States,USA,1973,Number of infant deaths,SH.DTH.IMRT,58378
+United States,USA,1972,Number of infant deaths,SH.DTH.IMRT,61674
+United States,USA,1971,Number of infant deaths,SH.DTH.IMRT,65199
+United States,USA,1970,Number of infant deaths,SH.DTH.IMRT,68997
+United States,USA,1969,Number of infant deaths,SH.DTH.IMRT,72803
+United States,USA,1968,Number of infant deaths,SH.DTH.IMRT,76917
+United States,USA,1967,Number of infant deaths,SH.DTH.IMRT,81314
+United States,USA,1966,Number of infant deaths,SH.DTH.IMRT,85615
+United States,USA,1965,Number of infant deaths,SH.DTH.IMRT,90073
+United States,USA,1964,Number of infant deaths,SH.DTH.IMRT,94271
+United States,USA,1963,Number of infant deaths,SH.DTH.IMRT,98423
+United States,USA,1962,Number of infant deaths,SH.DTH.IMRT,102411
+United States,USA,1961,Number of infant deaths,SH.DTH.IMRT,106130
+United States,USA,1960,Number of infant deaths,SH.DTH.IMRT,109480
+United States,USA,2018,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,2017,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,2016,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,2015,International migrant stock (% of population),SM.POP.TOTL.ZS,14.4906535240608
+United States,USA,2014,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,2013,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,2012,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,2011,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,2010,International migrant stock (% of population),SM.POP.TOTL.ZS,14.2584836388032
+United States,USA,2009,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,2008,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,2007,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,2006,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,2005,International migrant stock (% of population),SM.POP.TOTL.ZS,13.2566831184215
+United States,USA,2004,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,2003,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,2002,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,2001,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,2000,International migrant stock (% of population),SM.POP.TOTL.ZS,12.3063192386484
+United States,USA,1999,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1998,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1997,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1996,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1995,International migrant stock (% of population),SM.POP.TOTL.ZS,10.6848170440958
+United States,USA,1994,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1993,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1992,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1991,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1990,International migrant stock (% of population),SM.POP.TOTL.ZS,9.19566042513874
+United States,USA,1989,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1988,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1987,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1986,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1985,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1984,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1983,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1982,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1981,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1980,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1979,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1978,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1977,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1976,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1975,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1974,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1973,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1972,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1971,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1970,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1969,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1968,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1967,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1966,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1965,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1964,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1963,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1962,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1961,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,1960,International migrant stock (% of population),SM.POP.TOTL.ZS,
+United States,USA,2018,Land area (sq. km),AG.LND.TOTL.K2,9147420
+United States,USA,2017,Land area (sq. km),AG.LND.TOTL.K2,9147420
+United States,USA,2016,Land area (sq. km),AG.LND.TOTL.K2,9147420
+United States,USA,2015,Land area (sq. km),AG.LND.TOTL.K2,9147420
+United States,USA,2014,Land area (sq. km),AG.LND.TOTL.K2,9147420
+United States,USA,2013,Land area (sq. km),AG.LND.TOTL.K2,9147420
+United States,USA,2012,Land area (sq. km),AG.LND.TOTL.K2,9147420
+United States,USA,2011,Land area (sq. km),AG.LND.TOTL.K2,9147420
+United States,USA,2010,Land area (sq. km),AG.LND.TOTL.K2,9147420
+United States,USA,2009,Land area (sq. km),AG.LND.TOTL.K2,9147420
+United States,USA,2008,Land area (sq. km),AG.LND.TOTL.K2,9147420
+United States,USA,2007,Land area (sq. km),AG.LND.TOTL.K2,9161920
+United States,USA,2006,Land area (sq. km),AG.LND.TOTL.K2,9161920
+United States,USA,2005,Land area (sq. km),AG.LND.TOTL.K2,9161920
+United States,USA,2004,Land area (sq. km),AG.LND.TOTL.K2,9161920
+United States,USA,2003,Land area (sq. km),AG.LND.TOTL.K2,9161920
+United States,USA,2002,Land area (sq. km),AG.LND.TOTL.K2,9161920
+United States,USA,2001,Land area (sq. km),AG.LND.TOTL.K2,9161920
+United States,USA,2000,Land area (sq. km),AG.LND.TOTL.K2,9161920
+United States,USA,1999,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1998,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1997,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1996,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1995,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1994,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1993,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1992,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1991,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1990,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1989,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1988,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1987,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1986,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1985,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1984,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1983,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1982,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1981,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1980,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1979,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1978,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1977,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1976,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1975,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1974,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1973,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1972,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1971,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1970,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1969,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1968,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1967,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1966,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1965,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1964,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1963,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1962,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1961,Land area (sq. km),AG.LND.TOTL.K2,9158960
+United States,USA,1960,Land area (sq. km),AG.LND.TOTL.K2,
+United States,USA,2018,Population growth (annual %),SP.POP.GROW,
+United States,USA,2017,Population growth (annual %),SP.POP.GROW,0.712729409498835
+United States,USA,2016,Population growth (annual %),SP.POP.GROW,0.734307439742705
+United States,USA,2015,Population growth (annual %),SP.POP.GROW,0.755812954934385
+United States,USA,2014,Population growth (annual %),SP.POP.GROW,0.752305212009722
+United States,USA,2013,Population growth (annual %),SP.POP.GROW,0.711248386684869
+United States,USA,2012,Population growth (annual %),SP.POP.GROW,0.750914976335014
+United States,USA,2011,Population growth (annual %),SP.POP.GROW,0.742651798264185
+United States,USA,2010,Population growth (annual %),SP.POP.GROW,0.83326258638082
+United States,USA,2009,Population growth (annual %),SP.POP.GROW,0.876651298802912
+United States,USA,2008,Population growth (annual %),SP.POP.GROW,0.945865287282592
+United States,USA,2007,Population growth (annual %),SP.POP.GROW,0.951055242772428
+United States,USA,2006,Population growth (annual %),SP.POP.GROW,0.964253917136075
+United States,USA,2005,Population growth (annual %),SP.POP.GROW,0.921713167161207
+United States,USA,2004,Population growth (annual %),SP.POP.GROW,0.925483968943482
+United States,USA,2003,Population growth (annual %),SP.POP.GROW,0.859481712840946
+United States,USA,2002,Population growth (annual %),SP.POP.GROW,0.927797485710314
+United States,USA,2001,Population growth (annual %),SP.POP.GROW,0.989741382223669
+United States,USA,2000,Population growth (annual %),SP.POP.GROW,1.11276899679534
+United States,USA,1999,Population growth (annual %),SP.POP.GROW,1.14834004729055
+United States,USA,1998,Population growth (annual %),SP.POP.GROW,1.16571452642589
+United States,USA,1997,Population growth (annual %),SP.POP.GROW,1.20396029701272
+United States,USA,1996,Population growth (annual %),SP.POP.GROW,1.16341161998189
+United States,USA,1995,Population growth (annual %),SP.POP.GROW,1.19078709090209
+United States,USA,1994,Population growth (annual %),SP.POP.GROW,1.2262960888682
+United States,USA,1993,Population growth (annual %),SP.POP.GROW,1.31867999977741
+United States,USA,1992,Population growth (annual %),SP.POP.GROW,1.38688569247935
+United States,USA,1991,Population growth (annual %),SP.POP.GROW,1.33626074073779
+United States,USA,1990,Population growth (annual %),SP.POP.GROW,1.12965052045579
+United States,USA,1989,Population growth (annual %),SP.POP.GROW,0.944405555428529
+United States,USA,1988,Population growth (annual %),SP.POP.GROW,0.907999040167679
+United States,USA,1987,Population growth (annual %),SP.POP.GROW,0.893829201032046
+United States,USA,1986,Population growth (annual %),SP.POP.GROW,0.924164157058979
+United States,USA,1985,Population growth (annual %),SP.POP.GROW,0.886129040850881
+United States,USA,1984,Population growth (annual %),SP.POP.GROW,0.865817336309961
+United States,USA,1983,Population growth (annual %),SP.POP.GROW,0.914378513375149
+United States,USA,1982,Population growth (annual %),SP.POP.GROW,0.953317566163514
+United States,USA,1981,Population growth (annual %),SP.POP.GROW,0.981415437259678
+United States,USA,1980,Population growth (annual %),SP.POP.GROW,0.959589922764484
+United States,USA,1979,Population growth (annual %),SP.POP.GROW,1.10357656509899
+United States,USA,1978,Population growth (annual %),SP.POP.GROW,1.0595730803427
+United States,USA,1977,Population growth (annual %),SP.POP.GROW,1.00577199618134
+United States,USA,1976,Population growth (annual %),SP.POP.GROW,0.950220048994522
+United States,USA,1975,Population growth (annual %),SP.POP.GROW,0.985986067347125
+United States,USA,1974,Population growth (annual %),SP.POP.GROW,0.913660196067714
+United States,USA,1973,Population growth (annual %),SP.POP.GROW,0.954476728552297
+United States,USA,1972,Population growth (annual %),SP.POP.GROW,1.07052275237269
+United States,USA,1971,Population growth (annual %),SP.POP.GROW,1.26433369185094
+United States,USA,1970,Population growth (annual %),SP.POP.GROW,1.16500266687286
+United States,USA,1969,Population growth (annual %),SP.POP.GROW,0.977242811872469
+United States,USA,1968,Population growth (annual %),SP.POP.GROW,0.998461043585335
+United States,USA,1967,Population growth (annual %),SP.POP.GROW,1.08888120728762
+United States,USA,1966,Population growth (annual %),SP.POP.GROW,1.1548931907552
+United States,USA,1965,Population growth (annual %),SP.POP.GROW,1.25017164562845
+United States,USA,1964,Population growth (annual %),SP.POP.GROW,1.38904605518369
+United States,USA,1963,Population growth (annual %),SP.POP.GROW,1.43916476170683
+United States,USA,1962,Population growth (annual %),SP.POP.GROW,1.53799735825387
+United States,USA,1961,Population growth (annual %),SP.POP.GROW,1.65773003738953
+United States,USA,1960,Population growth (annual %),SP.POP.GROW,1.70199277744096
+United States,USA,2018,Population density (people per sq. km of land area),EN.POP.DNST,35.8705514779031
+United States,USA,2017,Population density (people per sq. km of land area),EN.POP.DNST,35.6077645937324
+United States,USA,2016,Population density (people per sq. km of land area),EN.POP.DNST,35.3548798459019
+United States,USA,2015,Population density (people per sq. km of land area),EN.POP.DNST,35.0962171847362
+United States,USA,2014,Population density (people per sq. km of land area),EN.POP.DNST,34.8319553491586
+United States,USA,2013,Population density (people per sq. km of land area),EN.POP.DNST,34.5708959466166
+United States,USA,2012,Population density (people per sq. km of land area),EN.POP.DNST,34.3258833638337
+United States,USA,2011,Population density (people per sq. km of land area),EN.POP.DNST,34.0690905195126
+United States,USA,2010,Population density (people per sq. km of land area),EN.POP.DNST,33.8170129938278
+United States,USA,2009,Population density (people per sq. km of land area),EN.POP.DNST,33.5363992251367
+United States,USA,2008,Population density (people per sq. km of land area),EN.POP.DNST,33.2436868537795
+United States,USA,2007,Population density (people per sq. km of land area),EN.POP.DNST,32.8786113609374
+United States,USA,2006,Population density (people per sq. km of land area),EN.POP.DNST,32.5673998463204
+United States,USA,2005,Population density (people per sq. km of land area),EN.POP.DNST,32.2548765979183
+United States,USA,2004,Population density (people per sq. km of land area),EN.POP.DNST,31.9589450682826
+United States,USA,2003,Population density (people per sq. km of land area),EN.POP.DNST,31.6645346171981
+United States,USA,2002,Population density (people per sq. km of land area),EN.POP.DNST,31.3935499327652
+United States,USA,2001,Population density (people per sq. km of land area),EN.POP.DNST,31.1036283879362
+United States,USA,2000,Population density (people per sq. km of land area),EN.POP.DNST,30.7973013298523
+United States,USA,1999,Population density (people per sq. km of land area),EN.POP.DNST,30.4663411566379
+United States,USA,1998,Population density (people per sq. km of land area),EN.POP.DNST,30.1184850681737
+United States,USA,1997,Population density (people per sq. km of land area),EN.POP.DNST,29.7694279699879
+United States,USA,1996,Population density (people per sq. km of land area),EN.POP.DNST,29.4131648134723
+United States,USA,1995,Population density (people per sq. km of land area),EN.POP.DNST,29.0729515141457
+United States,USA,1994,Population density (people per sq. km of land area),EN.POP.DNST,28.7288076375484
+United States,USA,1993,Population density (people per sq. km of land area),EN.POP.DNST,28.3786587123429
+United States,USA,1992,Population density (people per sq. km of land area),EN.POP.DNST,28.0068916121481
+United States,USA,1991,Population density (people per sq. km of land area),EN.POP.DNST,27.6211491261017
+United States,USA,1990,Population density (people per sq. km of land area),EN.POP.DNST,27.2545136128993
+United States,USA,1989,Population density (people per sq. km of land area),EN.POP.DNST,26.9483653165862
+United States,USA,1988,Population density (people per sq. km of land area),EN.POP.DNST,26.6950614480247
+United States,USA,1987,Population density (people per sq. km of land area),EN.POP.DNST,26.4537676766794
+United States,USA,1986,Population density (people per sq. km of land area),EN.POP.DNST,26.2183697712404
+United States,USA,1985,Population density (people per sq. km of land area),EN.POP.DNST,25.9771851825972
+United States,USA,1984,Population density (people per sq. km of land area),EN.POP.DNST,25.7480106911702
+United States,USA,1983,Population density (people per sq. km of land area),EN.POP.DNST,25.526042258073
+United States,USA,1982,Population density (people per sq. km of land area),EN.POP.DNST,25.293701468289
+United States,USA,1981,Population density (people per sq. km of land area),EN.POP.DNST,25.0537178893674
+United States,USA,1980,Population density (people per sq. km of land area),EN.POP.DNST,24.8090394542612
+United States,USA,1979,Population density (people per sq. km of land area),EN.POP.DNST,24.5721129909946
+United States,USA,1978,Population density (people per sq. km of land area),EN.POP.DNST,24.3024317171382
+United States,USA,1977,Population density (people per sq. km of land area),EN.POP.DNST,24.0462890983256
+United States,USA,1976,Population density (people per sq. km of land area),EN.POP.DNST,23.8056504231922
+United States,USA,1975,Population density (people per sq. km of land area),EN.POP.DNST,23.5805156917379
+United States,USA,1974,Population density (people per sq. km of land area),EN.POP.DNST,23.3491575462716
+United States,USA,1973,Population density (people per sq. km of land area),EN.POP.DNST,23.1367971909474
+United States,USA,1972,Population density (people per sq. km of land area),EN.POP.DNST,22.9170124118896
+United States,USA,1971,Population density (people per sq. km of land area),EN.POP.DNST,22.6729890729952
+United States,USA,1970,Population density (people per sq. km of land area),EN.POP.DNST,22.3881314035655
+United States,USA,1969,Population density (people per sq. km of land area),EN.POP.DNST,22.1288224863958
+United States,USA,1968,Population density (people per sq. km of land area),EN.POP.DNST,21.9136233808205
+United States,USA,1967,Population density (people per sq. km of land area),EN.POP.DNST,21.6959130731
+United States,USA,1966,Population density (people per sq. km of land area),EN.POP.DNST,21.4609518984688
+United States,USA,1965,Population density (people per sq. km of land area),EN.POP.DNST,21.2145265401312
+United States,USA,1964,Population density (people per sq. km of land area),EN.POP.DNST,20.9509594975849
+United States,USA,1963,Population density (people per sq. km of land area),EN.POP.DNST,20.6619528854804
+United States,USA,1962,Population density (people per sq. km of land area),EN.POP.DNST,20.3667228593639
+United States,USA,1961,Population density (people per sq. km of land area),EN.POP.DNST,20.0558797068663
+United States,USA,1960,Population density (people per sq. km of land area),EN.POP.DNST,
+United States,USA,2018,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,151340879
+United States,USA,2017,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,149493144
+United States,USA,2016,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,147686617
+United States,USA,2015,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,145920115
+United States,USA,2014,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,144194855
+United States,USA,2013,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,142507280
+United States,USA,2012,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,140858582
+United States,USA,2011,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,139240988
+United States,USA,2010,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,137660260
+United States,USA,2009,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,136113194
+United States,USA,2008,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,134600924
+United States,USA,2007,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,133116365
+United States,USA,2006,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,131664843
+United States,USA,2005,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,130243458
+United States,USA,2004,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,128853293
+United States,USA,2003,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,127487866
+United States,USA,2002,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,126152120
+United States,USA,2001,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,124843418
+United States,USA,2000,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,123562801
+United States,USA,1999,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,121701995
+United States,USA,1998,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,119691727
+United States,USA,1997,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,117729566
+United States,USA,1996,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,115816534
+United States,USA,1995,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,113943290
+United States,USA,1994,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,112116197
+United States,USA,1993,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,110331233
+United States,USA,1992,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,108589444
+United States,USA,1991,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,106882401
+United States,USA,1990,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,105216000
+United States,USA,1989,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,103839184
+United States,USA,1988,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,102578758
+United States,USA,1987,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,101344109
+United States,USA,1986,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,100139539
+United States,USA,1985,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,98962536
+United States,USA,1984,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,97813885
+United States,USA,1983,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,96688144
+United States,USA,1982,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,95589276
+United States,USA,1981,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,94515019
+United States,USA,1980,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,93466126
+United States,USA,1979,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,92505147
+United States,USA,1978,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,91596793
+United States,USA,1977,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,90717336
+United States,USA,1976,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,89866913
+United States,USA,1975,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,89041091
+United States,USA,1974,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,88242400
+United States,USA,1973,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,87468789
+United States,USA,1972,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,86720408
+United States,USA,1971,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,85993398
+United States,USA,1970,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,85290017
+United States,USA,1969,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,83807175
+United States,USA,1968,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,82104310
+United States,USA,1967,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,80442305
+United States,USA,1966,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,78826568
+United States,USA,1965,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,77253309
+United States,USA,1964,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,75723200
+United States,USA,1963,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,74228631
+United States,USA,1962,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,72774562
+United States,USA,1961,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,71357652
+United States,USA,1960,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,69978587
+United States,USA,2018,GNI (current US$),NY.GNP.MKTP.CD,
+United States,USA,2017,GNI (current US$),NY.GNP.MKTP.CD,19607598000000
+United States,USA,2016,GNI (current US$),NY.GNP.MKTP.CD,18968714000000
+United States,USA,2015,GNI (current US$),NY.GNP.MKTP.CD,18581144000000
+United States,USA,2014,GNI (current US$),NY.GNP.MKTP.CD,17892074000000
+United States,USA,2013,GNI (current US$),NY.GNP.MKTP.CD,17073716000000
+United States,USA,2012,GNI (current US$),NY.GNP.MKTP.CD,16596084000000
+United States,USA,2011,GNI (current US$),NY.GNP.MKTP.CD,15802898000000
+United States,USA,2010,GNI (current US$),NY.GNP.MKTP.CD,15121133000000
+United States,USA,2009,GNI (current US$),NY.GNP.MKTP.CD,14494460000000
+United States,USA,2008,GNI (current US$),NY.GNP.MKTP.CD,14791194000000
+United States,USA,2007,GNI (current US$),NY.GNP.MKTP.CD,14585723000000
+United States,USA,2006,GNI (current US$),NY.GNP.MKTP.CD,14140770000000
+United States,USA,2005,GNI (current US$),NY.GNP.MKTP.CD,13221776000000
+United States,USA,2004,GNI (current US$),NY.GNP.MKTP.CD,12372645000000
+United States,USA,2003,GNI (current US$),NY.GNP.MKTP.CD,11591408000000
+United States,USA,2002,GNI (current US$),NY.GNP.MKTP.CD,11098891000000
+United States,USA,2001,GNI (current US$),NY.GNP.MKTP.CD,10788612000000
+United States,USA,2000,GNI (current US$),NY.GNP.MKTP.CD,10421259000000
+United States,USA,1999,GNI (current US$),NY.GNP.MKTP.CD,9725260000000
+United States,USA,1998,GNI (current US$),NY.GNP.MKTP.CD,9167551000000
+United States,USA,1997,GNI (current US$),NY.GNP.MKTP.CD,8620325000000
+United States,USA,1996,GNI (current US$),NY.GNP.MKTP.CD,8075414000000
+United States,USA,1995,GNI (current US$),NY.GNP.MKTP.CD,7602259000000
+United States,USA,1994,GNI (current US$),NY.GNP.MKTP.CD,7195801000000
+United States,USA,1993,GNI (current US$),NY.GNP.MKTP.CD,6758382000000
+United States,USA,1992,GNI (current US$),NY.GNP.MKTP.CD,6459473000000
+United States,USA,1991,GNI (current US$),NY.GNP.MKTP.CD,6117250000000
+United States,USA,1990,GNI (current US$),NY.GNP.MKTP.CD,5922924000000
+United States,USA,1989,GNI (current US$),NY.GNP.MKTP.CD,5618304000000
+United States,USA,1988,GNI (current US$),NY.GNP.MKTP.CD,5275759000000
+United States,USA,1987,GNI (current US$),NY.GNP.MKTP.CD,4847150000000
+United States,USA,1986,GNI (current US$),NY.GNP.MKTP.CD,4530366000000
+United States,USA,1985,GNI (current US$),NY.GNP.MKTP.CD,4320842000000
+United States,USA,1984,GNI (current US$),NY.GNP.MKTP.CD,4038321000000
+United States,USA,1983,GNI (current US$),NY.GNP.MKTP.CD,3621060000000
+United States,USA,1982,GNI (current US$),NY.GNP.MKTP.CD,3374728000000
+United States,USA,1981,GNI (current US$),NY.GNP.MKTP.CD,3207178000000
+United States,USA,1980,GNI (current US$),NY.GNP.MKTP.CD,2852759000000
+United States,USA,1979,GNI (current US$),NY.GNP.MKTP.CD,2619286000000
+United States,USA,1978,GNI (current US$),NY.GNP.MKTP.CD,2355002000000
+United States,USA,1977,GNI (current US$),NY.GNP.MKTP.CD,2086987000000
+United States,USA,1976,GNI (current US$),NY.GNP.MKTP.CD,1873976000000
+United States,USA,1975,GNI (current US$),NY.GNP.MKTP.CD,1688685000000
+United States,USA,1974,GNI (current US$),NY.GNP.MKTP.CD,1556937000000
+United States,USA,1973,GNI (current US$),NY.GNP.MKTP.CD,1435060000000
+United States,USA,1972,GNI (current US$),NY.GNP.MKTP.CD,1283873000000
+United States,USA,1971,GNI (current US$),NY.GNP.MKTP.CD,1165881000000
+United States,USA,1970,GNI (current US$),NY.GNP.MKTP.CD,1076932000000
+United States,USA,1969,GNI (current US$),NY.GNP.MKTP.CD,1026000000000
+United States,USA,1968,GNI (current US$),NY.GNP.MKTP.CD,948600000000
+United States,USA,1967,GNI (current US$),NY.GNP.MKTP.CD,867100000000
+United States,USA,1966,GNI (current US$),NY.GNP.MKTP.CD,820100000000
+United States,USA,1965,GNI (current US$),NY.GNP.MKTP.CD,749000000000
+United States,USA,1964,GNI (current US$),NY.GNP.MKTP.CD,690700000000
+United States,USA,1963,GNI (current US$),NY.GNP.MKTP.CD,643100000000
+United States,USA,1962,GNI (current US$),NY.GNP.MKTP.CD,609200000000
+United States,USA,1961,GNI (current US$),NY.GNP.MKTP.CD,566800000000
+United States,USA,1960,GNI (current US$),NY.GNP.MKTP.CD,546400000000
+United States,USA,2018,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,2017,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,2016,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,1.2
+United States,USA,2015,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,2014,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,2013,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,1
+United States,USA,2012,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,2011,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,2010,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,1
+United States,USA,2009,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,2008,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,2007,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,1
+United States,USA,2006,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,2005,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,2004,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,1
+United States,USA,2003,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,2002,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,2001,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,2000,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0.7
+United States,USA,1999,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1998,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1997,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0.7
+United States,USA,1996,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1995,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1994,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0.7
+United States,USA,1993,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1992,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1991,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0.5
+United States,USA,1990,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1989,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1988,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1987,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1986,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0.5
+United States,USA,1985,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1984,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1983,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1982,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1981,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1980,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1979,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,0.5
+United States,USA,1978,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1977,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1976,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1975,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1974,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1973,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1972,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1971,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1970,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1969,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1968,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1967,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1966,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1965,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1964,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1963,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1962,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1961,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,1960,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,
+United States,USA,2018,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,
+United States,USA,2017,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,
+United States,USA,2016,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,
+United States,USA,2015,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,80.229
+United States,USA,2014,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,79.191
+United States,USA,2013,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,77.962
+United States,USA,2012,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,77.626
+United States,USA,2011,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,77.866
+United States,USA,2010,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,77.137
+United States,USA,2009,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,79.044
+United States,USA,2008,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,78.706
+United States,USA,2007,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,79.348
+United States,USA,2006,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,81.169
+United States,USA,2005,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,81.407
+United States,USA,2004,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,81.409
+United States,USA,2003,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,83.425
+United States,USA,2002,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,83.75
+United States,USA,2001,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,84.102
+United States,USA,2000,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,83.253
+United States,USA,1999,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,83.645
+United States,USA,1998,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,83.402
+United States,USA,1997,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,85.239
+United States,USA,1996,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,86.969
+United States,USA,1995,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,89.271
+United States,USA,1994,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,89.422
+United States,USA,1993,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,89.914
+United States,USA,1992,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,88.944
+United States,USA,1991,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,90.64
+United States,USA,1990,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,90.817
+United States,USA,1989,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,92.425
+United States,USA,1988,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,94.331
+United States,USA,1987,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,94.196
+United States,USA,1986,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,94.485
+United States,USA,1985,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,95.469
+United States,USA,1984,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,96.067
+United States,USA,1983,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,96.994
+United States,USA,1982,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,97.47
+United States,USA,1981,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,100.816
+United States,USA,1980,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,102.51
+United States,USA,1979,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,102.056
+United States,USA,1978,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,105.866
+United States,USA,1977,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,107.643
+United States,USA,1976,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,110.068
+United States,USA,1975,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,112.918
+United States,USA,1974,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,117.137
+United States,USA,1973,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,122.911
+United States,USA,1972,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,124.295
+United States,USA,1971,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,125.872
+United States,USA,1970,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,128.45
+United States,USA,1969,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,128.848
+United States,USA,1968,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,130.823
+United States,USA,1967,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,127.478
+United States,USA,1966,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,128.737
+United States,USA,1965,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,128.611
+United States,USA,1964,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,129.086
+United States,USA,1963,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,130.298
+United States,USA,1962,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,128.62
+United States,USA,1961,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,126.591
+United States,USA,1960,"Mortality rate, adult, female (per 1,000 female adults)",SP.DYN.AMRT.FE,130.636
+United States,USA,2018,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,
+United States,USA,2017,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,
+United States,USA,2016,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,
+United States,USA,2015,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,133.993
+United States,USA,2014,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,131.567
+United States,USA,2013,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,131.037
+United States,USA,2012,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,131.191
+United States,USA,2011,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,132.036
+United States,USA,2010,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,131.851
+United States,USA,2009,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,134.926
+United States,USA,2008,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,136.775
+United States,USA,2007,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,138.446
+United States,USA,2006,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,141.478
+United States,USA,2005,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,141.797
+United States,USA,2004,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,140.467
+United States,USA,2003,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,143.705
+United States,USA,2002,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,144.426
+United States,USA,2001,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,144.189
+United States,USA,2000,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,143.765
+United States,USA,1999,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,144.526
+United States,USA,1998,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,145.253
+United States,USA,1997,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,149.189
+United States,USA,1996,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,157.762
+United States,USA,1995,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,166.792
+United States,USA,1994,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,168.87
+United States,USA,1993,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,170.014
+United States,USA,1992,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,168.369
+United States,USA,1991,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,170.613
+United States,USA,1990,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,172.059
+United States,USA,1989,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,174.682
+United States,USA,1988,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,176.121
+United States,USA,1987,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,176.045
+United States,USA,1986,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,177.754
+United States,USA,1985,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,177.999
+United States,USA,1984,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,177.849
+United States,USA,1983,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,179.556
+United States,USA,1982,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,183.06
+United States,USA,1981,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,190.169
+United States,USA,1980,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,194.849
+United States,USA,1979,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,195.088
+United States,USA,1978,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,198.975
+United States,USA,1977,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,202.579
+United States,USA,1976,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,206.625
+United States,USA,1975,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,212.724
+United States,USA,1974,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,219.782
+United States,USA,1973,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,228.462
+United States,USA,1972,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,232.002
+United States,USA,1971,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,232.122
+United States,USA,1970,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,236.951
+United States,USA,1969,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,239.471
+United States,USA,1968,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,240.957
+United States,USA,1967,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,234.827
+United States,USA,1966,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,236.614
+United States,USA,1965,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,232.99
+United States,USA,1964,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,232.261
+United States,USA,1963,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,233.543
+United States,USA,1962,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,229.805
+United States,USA,1961,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,226.66
+United States,USA,1960,"Mortality rate, adult, male (per 1,000 male adults)",SP.DYN.AMRT.MA,233.283
+United States,USA,2018,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,3.885129
+United States,USA,2017,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,2016,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,3.992172
+United States,USA,2015,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,2014,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,3.917825
+United States,USA,2013,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,2012,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,3.930063
+United States,USA,2011,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,2010,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,3.855811
+United States,USA,2009,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,2008,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,2007,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,3.84367150068073
+United States,USA,2006,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,2005,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,2004,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,2003,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,2002,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,2001,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,2000,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1999,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1998,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1997,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1996,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1995,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1994,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1993,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1992,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1991,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1990,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1989,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1988,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1987,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1986,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1985,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1984,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1983,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1982,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1981,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1980,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1979,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1978,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1977,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1976,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1975,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1974,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1973,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1972,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1971,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1970,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1969,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1968,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1967,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1966,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1965,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1964,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1963,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1962,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1961,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,1960,Logistics performance index: Overall (1=low to 5=high),LP.LPI.OVRL.XQ,
+United States,USA,2018,Rail lines (total route-km),IS.RRS.TOTL.KM,
+United States,USA,2017,Rail lines (total route-km),IS.RRS.TOTL.KM,
+United States,USA,2016,Rail lines (total route-km),IS.RRS.TOTL.KM,
+United States,USA,2015,Rail lines (total route-km),IS.RRS.TOTL.KM,
+United States,USA,2014,Rail lines (total route-km),IS.RRS.TOTL.KM,228218
+United States,USA,2013,Rail lines (total route-km),IS.RRS.TOTL.KM,228218
+United States,USA,2012,Rail lines (total route-km),IS.RRS.TOTL.KM,228218
+United States,USA,2011,Rail lines (total route-km),IS.RRS.TOTL.KM,228218
+United States,USA,2010,Rail lines (total route-km),IS.RRS.TOTL.KM,228513
+United States,USA,2009,Rail lines (total route-km),IS.RRS.TOTL.KM,226205
+United States,USA,2008,Rail lines (total route-km),IS.RRS.TOTL.KM,227058
+United States,USA,2007,Rail lines (total route-km),IS.RRS.TOTL.KM,226706
+United States,USA,2006,Rail lines (total route-km),IS.RRS.TOTL.KM,227187
+United States,USA,2005,Rail lines (total route-km),IS.RRS.TOTL.KM,
+United States,USA,2004,Rail lines (total route-km),IS.RRS.TOTL.KM,
+United States,USA,2003,Rail lines (total route-km),IS.RRS.TOTL.KM,159095.00805153
+United States,USA,2002,Rail lines (total route-km),IS.RRS.TOTL.KM,160703.703703704
+United States,USA,2001,Rail lines (total route-km),IS.RRS.TOTL.KM,157515.297906602
+United States,USA,2000,Rail lines (total route-km),IS.RRS.TOTL.KM,159822
+United States,USA,1999,Rail lines (total route-km),IS.RRS.TOTL.KM,160112.721417069
+United States,USA,1998,Rail lines (total route-km),IS.RRS.TOTL.KM,161948.47020934
+United States,USA,1997,Rail lines (total route-km),IS.RRS.TOTL.KM,164457.32689211
+United States,USA,1996,Rail lines (total route-km),IS.RRS.TOTL.KM,170199.517296862
+United States,USA,1995,Rail lines (total route-km),IS.RRS.TOTL.KM,174619.35483871
+United States,USA,1994,Rail lines (total route-km),IS.RRS.TOTL.KM,176341.935483871
+United States,USA,1993,Rail lines (total route-km),IS.RRS.TOTL.KM,178104.838709677
+United States,USA,1992,Rail lines (total route-km),IS.RRS.TOTL.KM,182348.387096774
+United States,USA,1991,Rail lines (total route-km),IS.RRS.TOTL.KM,188106.451612903
+United States,USA,1990,Rail lines (total route-km),IS.RRS.TOTL.KM,193158.064516129
+United States,USA,1989,Rail lines (total route-km),IS.RRS.TOTL.KM,200380.64516129
+United States,USA,1988,Rail lines (total route-km),IS.RRS.TOTL.KM,205733.870967742
+United States,USA,1987,Rail lines (total route-km),IS.RRS.TOTL.KM,213258.064516129
+United States,USA,1986,Rail lines (total route-km),IS.RRS.TOTL.KM,225904.838709677
+United States,USA,1985,Rail lines (total route-km),IS.RRS.TOTL.KM,235103.225806452
+United States,USA,1984,Rail lines (total route-km),IS.RRS.TOTL.KM,245158.064516129
+United States,USA,1983,Rail lines (total route-km),IS.RRS.TOTL.KM,251417.741935484
+United States,USA,1982,Rail lines (total route-km),IS.RRS.TOTL.KM,256650
+United States,USA,1981,Rail lines (total route-km),IS.RRS.TOTL.KM,261548.387096774
+United States,USA,1980,Rail lines (total route-km),IS.RRS.TOTL.KM,265841.935483871
+United States,USA,1979,Rail lines (total route-km),IS.RRS.TOTL.KM,
+United States,USA,1978,Rail lines (total route-km),IS.RRS.TOTL.KM,
+United States,USA,1977,Rail lines (total route-km),IS.RRS.TOTL.KM,
+United States,USA,1976,Rail lines (total route-km),IS.RRS.TOTL.KM,
+United States,USA,1975,Rail lines (total route-km),IS.RRS.TOTL.KM,
+United States,USA,1974,Rail lines (total route-km),IS.RRS.TOTL.KM,
+United States,USA,1973,Rail lines (total route-km),IS.RRS.TOTL.KM,
+United States,USA,1972,Rail lines (total route-km),IS.RRS.TOTL.KM,
+United States,USA,1971,Rail lines (total route-km),IS.RRS.TOTL.KM,
+United States,USA,1970,Rail lines (total route-km),IS.RRS.TOTL.KM,
+United States,USA,1969,Rail lines (total route-km),IS.RRS.TOTL.KM,
+United States,USA,1968,Rail lines (total route-km),IS.RRS.TOTL.KM,
+United States,USA,1967,Rail lines (total route-km),IS.RRS.TOTL.KM,
+United States,USA,1966,Rail lines (total route-km),IS.RRS.TOTL.KM,
+United States,USA,1965,Rail lines (total route-km),IS.RRS.TOTL.KM,
+United States,USA,1964,Rail lines (total route-km),IS.RRS.TOTL.KM,
+United States,USA,1963,Rail lines (total route-km),IS.RRS.TOTL.KM,
+United States,USA,1962,Rail lines (total route-km),IS.RRS.TOTL.KM,
+United States,USA,1961,Rail lines (total route-km),IS.RRS.TOTL.KM,
+United States,USA,1960,Rail lines (total route-km),IS.RRS.TOTL.KM,
+United States,USA,2018,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,2017,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,19607598000000
+United States,USA,2016,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,18968714000000
+United States,USA,2015,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,18581144000000
+United States,USA,2014,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,17892074000000
+United States,USA,2013,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,17073716000000
+United States,USA,2012,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,16596084000000
+United States,USA,2011,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,15802898000000
+United States,USA,2010,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,15121133000000
+United States,USA,2009,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,14494460000000
+United States,USA,2008,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,14791194000000
+United States,USA,2007,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,14585723000000
+United States,USA,2006,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,14140770000000
+United States,USA,2005,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,13221776000000
+United States,USA,2004,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,12372645000000
+United States,USA,2003,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,11591408000000
+United States,USA,2002,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,11098891000000
+United States,USA,2001,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,10788612000000
+United States,USA,2000,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,10421259000000
+United States,USA,1999,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,9725260000000
+United States,USA,1998,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,9167551000000
+United States,USA,1997,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,8620325000000
+United States,USA,1996,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,8075414000000
+United States,USA,1995,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,7602259000000
+United States,USA,1994,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,7195801000000
+United States,USA,1993,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,6758382000000
+United States,USA,1992,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,6459473000000
+United States,USA,1991,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,6117250000000
+United States,USA,1990,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,5922924000000
+United States,USA,1989,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,1988,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,1987,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,1986,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,1985,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,1984,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,1983,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,1982,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,1981,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,1980,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,1979,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,1978,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,1977,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,1976,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,1975,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,1974,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,1973,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,1972,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,1971,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,1970,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,1969,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,1968,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,1967,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,1966,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,1965,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,1964,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,1963,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,1962,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,1961,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,1960,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,
+United States,USA,2018,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,2017,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,59531.661964344
+United States,USA,2016,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,57588.538070583
+United States,USA,2015,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,56443.8172422582
+United States,USA,2014,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,54696.7261652327
+United States,USA,2013,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,52782.086508871
+United States,USA,2012,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,51450.9591148182
+United States,USA,2011,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,49793.7135249201
+United States,USA,2010,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,48375.4069462972
+United States,USA,2009,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,47001.5553496818
+United States,USA,2008,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,48401.4273403899
+United States,USA,2007,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,48061.5376613353
+United States,USA,2006,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,46437.0671173065
+United States,USA,2005,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,44307.9205848603
+United States,USA,2004,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,41921.8097617892
+United States,USA,2003,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,39677.1983481058
+United States,USA,2002,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,38166.0378407812
+United States,USA,2001,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,37273.6181034176
+United States,USA,2000,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,36449.8551155349
+United States,USA,1999,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,34620.9288990826
+United States,USA,1998,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,32949.1977640346
+United States,USA,1997,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,31572.6902298492
+United States,USA,1996,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,30068.2309182833
+United States,USA,1995,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,28782.1750200918
+United States,USA,1994,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,27776.635528226
+United States,USA,1993,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,26464.852511744
+United States,USA,1992,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,25492.9516517617
+United States,USA,1991,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,24405.1648147489
+United States,USA,1990,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,23954.4793548671
+United States,USA,1989,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,1988,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,1987,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,1986,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,1985,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,1984,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,1983,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,1982,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,1981,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,1980,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,1979,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,1978,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,1977,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,1976,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,1975,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,1974,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,1973,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,1972,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,1971,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,1970,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,1969,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,1968,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,1967,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,1966,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,1965,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,1964,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,1963,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,1962,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,1961,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,1960,"GDP per capita, PPP (current international $)",NY.GDP.PCAP.PP.CD,
+United States,USA,2018,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,2017,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,60200
+United States,USA,2016,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,58650
+United States,USA,2015,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,57880
+United States,USA,2014,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,56150
+United States,USA,2013,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,53990
+United States,USA,2012,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,52850
+United States,USA,2011,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,50710
+United States,USA,2010,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,48880
+United States,USA,2009,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,47250
+United States,USA,2008,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,48640
+United States,USA,2007,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,48420
+United States,USA,2006,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,47390
+United States,USA,2005,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,44740
+United States,USA,2004,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,42260
+United States,USA,2003,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,39960
+United States,USA,2002,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,38590
+United States,USA,2001,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,37860
+United States,USA,2000,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,36930
+United States,USA,1999,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,34850
+United States,USA,1998,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,33230
+United States,USA,1997,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,31620
+United States,USA,1996,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,29980
+United States,USA,1995,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,28550
+United States,USA,1994,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,27350
+United States,USA,1993,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,26000
+United States,USA,1992,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,25180
+United States,USA,1991,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,24180
+United States,USA,1990,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,23730
+United States,USA,1989,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,1988,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,1987,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,1986,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,1985,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,1984,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,1983,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,1982,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,1981,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,1980,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,1979,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,1978,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,1977,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,1976,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,1975,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,1974,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,1973,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,1972,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,1971,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,1970,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,1969,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,1968,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,1967,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,1966,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,1965,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,1964,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,1963,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,1962,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,1961,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,1960,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,
+United States,USA,2018,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,2017,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,2016,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,2015,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,2014,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,2013,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,2012,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,2011,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,2010,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,2009,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,2008,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,2007,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,2006,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,2005,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,2004,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,2003,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,2002,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,2001,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,2000,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1999,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1998,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1997,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1996,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1995,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1994,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1993,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1992,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1991,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1990,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1989,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1988,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1987,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1986,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1985,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1984,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1983,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1982,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1981,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1980,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1979,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1978,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1977,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1976,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1975,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1974,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1973,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1972,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1971,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1970,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1969,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1968,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1967,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1966,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1965,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1964,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1963,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1962,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1961,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,1960,Net ODA received per capita (current US$),DT.ODA.ODAT.PC.ZS,
+United States,USA,2018,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+United States,USA,2017,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,122.012468472834
+United States,USA,2016,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,122.875872294896
+United States,USA,2015,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,119.497390487961
+United States,USA,2014,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,111.891403183316
+United States,USA,2013,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,98.4665250134029
+United States,USA,2012,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,97.2880745755963
+United States,USA,2011,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,95.6125019258475
+United States,USA,2010,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,92.3784068871048
+United States,USA,2009,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,89.6126045826433
+United States,USA,2008,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,86.1312908462937
+United States,USA,2007,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,82.9354629527902
+United States,USA,2006,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,77.0916423137437
+United States,USA,2005,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,69.0205483727633
+United States,USA,2004,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,63.1774892595294
+United States,USA,2003,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,55.3867930869923
+United States,USA,2002,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,49.3205645290249
+United States,USA,2001,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,45.1110835155321
+United States,USA,2000,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,38.8243678484507
+United States,USA,1999,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,30.8564514088078
+United States,USA,1998,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,25.1174664993638
+United States,USA,1997,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,20.3251980657314
+United States,USA,1996,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,16.384832955104
+United States,USA,1995,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,12.7176870362786
+United States,USA,1994,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,9.18561207022721
+United States,USA,1993,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,6.15700697945043
+United States,USA,1992,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,4.28532526240106
+United States,USA,1991,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,2.96388013123759
+United States,USA,1990,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,2.09205086366983
+United States,USA,1989,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,1.40294242062495
+United States,USA,1988,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.835329172388771
+United States,USA,1987,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.501565051009348
+United States,USA,1986,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.280472228313135
+United States,USA,1985,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.141270317939914
+United States,USA,1984,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.0383948181146299
+United States,USA,1983,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+United States,USA,1982,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+United States,USA,1981,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+United States,USA,1980,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+United States,USA,1979,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+United States,USA,1978,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+United States,USA,1977,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+United States,USA,1976,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+United States,USA,1975,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+United States,USA,1974,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+United States,USA,1973,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+United States,USA,1972,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+United States,USA,1971,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+United States,USA,1970,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+United States,USA,1969,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+United States,USA,1968,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+United States,USA,1967,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+United States,USA,1966,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+United States,USA,1965,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+United States,USA,1964,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+United States,USA,1963,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+United States,USA,1962,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+United States,USA,1961,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,
+United States,USA,1960,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+United States,USA,2018,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,2017,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,2016,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,12052269302280.5
+United States,USA,2015,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,11731639881270.5
+United States,USA,2014,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,11319342540330.6
+United States,USA,2013,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,11003770602276.8
+United States,USA,2012,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,10845305476636.8
+United States,USA,2011,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,10689299000000
+United States,USA,2010,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,10452744504662.3
+United States,USA,2009,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,10255535372774.6
+United States,USA,2008,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,10422395232776.2
+United States,USA,2007,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,10458193692531
+United States,USA,2006,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,10229208341156.8
+United States,USA,2005,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,9927300876319.43
+United States,USA,2004,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,9590241926180.44
+United States,USA,2003,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,9235487409754.08
+United States,USA,2002,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,8955551875351.41
+United States,USA,2001,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,8730444621937.51
+United States,USA,2000,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,8509696635460.42
+United States,USA,1999,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,8098543685505.82
+United States,USA,1998,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,7691133335406.16
+United States,USA,1997,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,7300734083411.73
+United States,USA,1996,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,7035908508397.55
+United States,USA,1995,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,6798421044904.41
+United States,USA,1994,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,6600990908512.95
+United States,USA,1993,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,6354526725301.39
+United States,USA,1992,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,6141191242399.36
+United States,USA,1991,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,5921508597688.64
+United States,USA,1990,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,5908012846048.09
+United States,USA,1989,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,1988,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,1987,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,1986,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,1985,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,1984,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,1983,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,1982,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,1981,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,1980,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,1979,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,1978,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,1977,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,1976,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,1975,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,1974,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,1973,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,1972,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,1971,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,1970,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,1969,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,1968,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,1967,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,1966,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,1965,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,1964,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,1963,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,1962,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,1961,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,1960,"Households and NPISHs Final consumption expenditure, PPP (constant 2011 international $)",NE.CON.PRVT.PP.KD,
+United States,USA,2018,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+United States,USA,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+United States,USA,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+United States,USA,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+United States,USA,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+United States,USA,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+United States,USA,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+United States,USA,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+United States,USA,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+United States,USA,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+United States,USA,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+United States,USA,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+United States,USA,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+United States,USA,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+United States,USA,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+United States,USA,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+United States,USA,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+United States,USA,1999,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+United States,USA,1998,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+United States,USA,1997,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+United States,USA,1996,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+United States,USA,1995,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+United States,USA,1994,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+United States,USA,1993,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+United States,USA,1992,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+United States,USA,1991,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+United States,USA,1990,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+United States,USA,1989,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,1988,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,1987,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,1986,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,1985,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,1984,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,1983,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,1982,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,1981,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,1980,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,1979,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,1978,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,1977,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,1976,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,1975,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,1974,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,1973,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,1972,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,1971,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,1970,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,1969,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,1968,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,1967,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,1966,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,1965,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,1964,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,1963,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,1962,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,1961,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,1960,Access to electricity (% of population),EG.ELC.ACCS.ZS,
+United States,USA,2018,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,2017,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,2016,GINI index (World Bank estimate),SI.POV.GINI,41.5
+United States,USA,2015,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,2014,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,2013,GINI index (World Bank estimate),SI.POV.GINI,41
+United States,USA,2012,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,2011,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,2010,GINI index (World Bank estimate),SI.POV.GINI,40.4
+United States,USA,2009,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,2008,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,2007,GINI index (World Bank estimate),SI.POV.GINI,41.1
+United States,USA,2006,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,2005,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,2004,GINI index (World Bank estimate),SI.POV.GINI,40.5
+United States,USA,2003,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,2002,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,2001,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,2000,GINI index (World Bank estimate),SI.POV.GINI,40.4
+United States,USA,1999,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1998,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1997,GINI index (World Bank estimate),SI.POV.GINI,40.8
+United States,USA,1996,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1995,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1994,GINI index (World Bank estimate),SI.POV.GINI,40.2
+United States,USA,1993,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1992,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1991,GINI index (World Bank estimate),SI.POV.GINI,38.2
+United States,USA,1990,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1989,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1988,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1987,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1986,GINI index (World Bank estimate),SI.POV.GINI,37.5
+United States,USA,1985,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1984,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1983,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1982,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1981,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1980,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1979,GINI index (World Bank estimate),SI.POV.GINI,34.6
+United States,USA,1978,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1977,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1976,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1975,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1974,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1973,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1972,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1971,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1970,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1969,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1968,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1967,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1966,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1965,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1964,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1963,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1962,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1961,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,1960,GINI index (World Bank estimate),SI.POV.GINI,
+United States,USA,2018,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,
+United States,USA,2017,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.13011000365963
+United States,USA,2016,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.26158320570537
+United States,USA,2015,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,0.118627135552435
+United States,USA,2014,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.62222297740821
+United States,USA,2013,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.46483265562714
+United States,USA,2012,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.06933726526059
+United States,USA,2011,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.15684156862206
+United States,USA,2010,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.64004344238989
+United States,USA,2009,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,-0.35554626629975
+United States,USA,2008,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.83910029665101
+United States,USA,2007,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.85267248150136
+United States,USA,2006,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.22594410070407
+United States,USA,2005,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.39274684549547
+United States,USA,2004,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.67723669309173
+United States,USA,2003,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.27009497336113
+United States,USA,2002,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.58603162650603
+United States,USA,2001,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.82617111885402
+United States,USA,2000,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.37685727149935
+United States,USA,1999,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.18802719697358
+United States,USA,1998,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.55227909874362
+United States,USA,1997,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.33768993730741
+United States,USA,1996,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.9312041999344
+United States,USA,1995,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.80541968853655
+United States,USA,1994,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.6074415921546
+United States,USA,1993,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.95165696638554
+United States,USA,1992,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.0288196781497
+United States,USA,1991,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.23496396453853
+United States,USA,1990,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.39795643990322
+United States,USA,1989,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.82700303008949
+United States,USA,1988,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.07774110744408
+United States,USA,1987,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.66456321751691
+United States,USA,1986,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.89804772234275
+United States,USA,1985,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.54564415209369
+United States,USA,1984,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.30053547523427
+United States,USA,1983,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.21243523316063
+United States,USA,1982,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.13142700027494
+United States,USA,1981,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,10.3347153402771
+United States,USA,1980,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,13.5492019749684
+United States,USA,1979,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,11.2544711292795
+United States,USA,1978,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,7.63096383885602
+United States,USA,1977,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.50168399472839
+United States,USA,1976,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.74481263549085
+United States,USA,1975,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,9.14314686496534
+United States,USA,1974,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,11.0548048048048
+United States,USA,1973,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,6.17776006377041
+United States,USA,1972,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.27227824655283
+United States,USA,1971,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.29276668813045
+United States,USA,1970,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.83825533848253
+United States,USA,1969,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,5.4623862002875
+United States,USA,1968,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,4.27179615288534
+United States,USA,1967,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2.77278562259307
+United States,USA,1966,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,3.01507537688439
+United States,USA,1965,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.58516926383669
+United States,USA,1964,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.27891156462583
+United States,USA,1963,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.2396694214876
+United States,USA,1962,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.19877334820185
+United States,USA,1961,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.07072414764723
+United States,USA,1960,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,1.45797598627786
+United States,USA,2018,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,2017,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,2016,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+United States,USA,2015,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+United States,USA,2014,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+United States,USA,2013,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+United States,USA,2012,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+United States,USA,2011,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+United States,USA,2010,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+United States,USA,2009,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+United States,USA,2008,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+United States,USA,2007,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+United States,USA,2006,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+United States,USA,2005,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+United States,USA,2004,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+United States,USA,2003,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+United States,USA,2002,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+United States,USA,2001,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+United States,USA,2000,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2.5
+United States,USA,1999,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1998,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1997,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1996,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1995,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1994,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1993,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1992,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1991,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1990,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1989,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1988,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1987,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1986,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1985,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1984,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1983,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1982,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1981,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1980,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1979,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1978,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1977,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1976,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1975,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1974,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1973,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1972,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1971,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1970,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1969,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1968,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1967,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1966,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1965,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1964,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1963,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1962,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1961,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,1960,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,
+United States,USA,2018,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+United States,USA,2017,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,36.9543852693857
+United States,USA,2016,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,37.7211959149307
+United States,USA,2015,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,39.0236386141005
+United States,USA,2014,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,40.4429981773284
+United States,USA,2013,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,42.2242516112453
+United States,USA,2012,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,44.2321518177024
+United States,USA,2011,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,46.0756686645457
+United States,USA,2010,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,48.4873397942922
+United States,USA,2009,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,49.9460327485204
+United States,USA,2008,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,53.6509272560861
+United States,USA,2007,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,52.7014949591257
+United States,USA,2006,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,56.2271717578556
+United States,USA,2005,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,59.3505357500672
+United States,USA,2004,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,60.7407949708669
+United States,USA,2003,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,63.0744335580945
+United States,USA,2002,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,65.8245690406114
+United States,USA,2001,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,67.2526564820023
+United States,USA,2000,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,68.2711906611545
+United States,USA,1999,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,67.9554086836923
+United States,USA,1998,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,65.2712132504606
+United States,USA,1997,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,63.8896169445463
+United States,USA,1996,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,61.9210862433062
+United States,USA,1995,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,60.0992591065544
+United States,USA,1994,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,58.4026152907987
+United States,USA,1993,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,56.9594850609022
+United States,USA,1992,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,55.6765204669957
+United States,USA,1991,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,54.6771185275359
+United States,USA,1990,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,53.90022094409
+United States,USA,1989,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,52.5780226054214
+United States,USA,1988,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,51.2985304867431
+United States,USA,1987,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,50.0357848309382
+United States,USA,1986,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,48.6588396613091
+United States,USA,1985,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,48.1620416592823
+United States,USA,1984,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,47.1764754647618
+United States,USA,1983,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,46.801563453245
+United States,USA,1982,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,45.9223531045429
+United States,USA,1981,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,45.5116383356426
+United States,USA,1980,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,41.0344479581513
+United States,USA,1979,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,40.098879139118
+United States,USA,1978,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,39.224277906087
+United States,USA,1977,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,38.2520391602083
+United States,USA,1976,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,37.4264571495609
+United States,USA,1975,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,36.7304081923276
+United States,USA,1974,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+United States,USA,1973,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+United States,USA,1972,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+United States,USA,1971,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+United States,USA,1970,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,32.9403165207575
+United States,USA,1969,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+United States,USA,1968,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+United States,USA,1967,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+United States,USA,1966,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+United States,USA,1965,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,29.1714047866347
+United States,USA,1964,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+United States,USA,1963,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+United States,USA,1962,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+United States,USA,1961,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,
+United States,USA,1960,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,26.3741059628273
+United States,USA,2018,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,2017,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,54225.4461231621
+United States,USA,2016,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,53399.3591673623
+United States,USA,2015,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,53005.6361464627
+United States,USA,2014,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,51921.9846391384
+United States,USA,2013,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,51003.6859904151
+United States,USA,2012,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,50520.348289879
+United States,USA,2011,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,49793.7135249201
+United States,USA,2010,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,49374.1788851797
+United States,USA,2009,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,48557.8676445276
+United States,USA,2008,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,50383.8405601926
+United States,USA,2007,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,51011.4250263085
+United States,USA,2006,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,50598.9483595843
+United States,USA,2005,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,49762.2379013619
+United States,USA,2004,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,48597.3373622248
+United States,USA,2003,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,47260.0419368009
+United States,USA,2002,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,46366.5779744928
+United States,USA,2001,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,45977.5499913714
+United States,USA,2000,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,45986.0527103166
+United States,USA,1999,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,44672.5494142099
+United States,USA,1998,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,43166.0818492918
+United States,USA,1997,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,41811.6387668025
+United States,USA,1996,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,40500.7954160455
+United States,USA,1995,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,39476.2658175258
+United States,USA,1994,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,38891.6981952607
+United States,USA,1993,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,37843.5732817864
+United States,USA,1992,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,37321.1290369821
+United States,USA,1991,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,36543.0849228687
+United States,USA,1990,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,37062.1302595789
+United States,USA,1989,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,1988,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,1987,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,1986,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,1985,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,1984,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,1983,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,1982,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,1981,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,1980,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,1979,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,1978,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,1977,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,1976,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,1975,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,1974,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,1973,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,1972,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,1971,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,1970,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,1969,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,1968,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,1967,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,1966,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,1965,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,1964,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,1963,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,1962,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,1961,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,1960,"GDP per capita, PPP (constant 2011 international $)",NY.GDP.PCAP.PP.KD,
+United States,USA,2018,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,2017,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,2016,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,2015,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,2014,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,2013,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,2012,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,2011,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,2010,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,2009,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,2008,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,2007,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,2006,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,2005,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,2004,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,2003,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,2002,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,2001,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,2000,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1999,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1998,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1997,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1996,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1995,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1994,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1993,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1992,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1991,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1990,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1989,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1988,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1987,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1986,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1985,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1984,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1983,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1982,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1981,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1980,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1979,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1978,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1977,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1976,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1975,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1974,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1973,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1972,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1971,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1970,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1969,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1968,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1967,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1966,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1965,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1964,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1963,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1962,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1961,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,1960,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,
+United States,USA,2018,Urban population (% of total),SP.URB.TOTL.IN.ZS,82.256
+United States,USA,2017,Urban population (% of total),SP.URB.TOTL.IN.ZS,82.058
+United States,USA,2016,Urban population (% of total),SP.URB.TOTL.IN.ZS,81.862
+United States,USA,2015,Urban population (% of total),SP.URB.TOTL.IN.ZS,81.671
+United States,USA,2014,Urban population (% of total),SP.URB.TOTL.IN.ZS,81.483
+United States,USA,2013,Urban population (% of total),SP.URB.TOTL.IN.ZS,81.299
+United States,USA,2012,Urban population (% of total),SP.URB.TOTL.IN.ZS,81.119
+United States,USA,2011,Urban population (% of total),SP.URB.TOTL.IN.ZS,80.944
+United States,USA,2010,Urban population (% of total),SP.URB.TOTL.IN.ZS,80.772
+United States,USA,2009,Urban population (% of total),SP.URB.TOTL.IN.ZS,80.606
+United States,USA,2008,Urban population (% of total),SP.URB.TOTL.IN.ZS,80.438
+United States,USA,2007,Urban population (% of total),SP.URB.TOTL.IN.ZS,80.269
+United States,USA,2006,Urban population (% of total),SP.URB.TOTL.IN.ZS,80.099
+United States,USA,2005,Urban population (% of total),SP.URB.TOTL.IN.ZS,79.928
+United States,USA,2004,Urban population (% of total),SP.URB.TOTL.IN.ZS,79.757
+United States,USA,2003,Urban population (% of total),SP.URB.TOTL.IN.ZS,79.583
+United States,USA,2002,Urban population (% of total),SP.URB.TOTL.IN.ZS,79.409
+United States,USA,2001,Urban population (% of total),SP.URB.TOTL.IN.ZS,79.234
+United States,USA,2000,Urban population (% of total),SP.URB.TOTL.IN.ZS,79.057
+United States,USA,1999,Urban population (% of total),SP.URB.TOTL.IN.ZS,78.742
+United States,USA,1998,Urban population (% of total),SP.URB.TOTL.IN.ZS,78.377
+United States,USA,1997,Urban population (% of total),SP.URB.TOTL.IN.ZS,78.008
+United States,USA,1996,Urban population (% of total),SP.URB.TOTL.IN.ZS,77.636
+United States,USA,1995,Urban population (% of total),SP.URB.TOTL.IN.ZS,77.257
+United States,USA,1994,Urban population (% of total),SP.URB.TOTL.IN.ZS,76.875
+United States,USA,1993,Urban population (% of total),SP.URB.TOTL.IN.ZS,76.488
+United States,USA,1992,Urban population (% of total),SP.URB.TOTL.IN.ZS,76.097
+United States,USA,1991,Urban population (% of total),SP.URB.TOTL.IN.ZS,75.701
+United States,USA,1990,Urban population (% of total),SP.URB.TOTL.IN.ZS,75.3
+United States,USA,1989,Urban population (% of total),SP.URB.TOTL.IN.ZS,75.089
+United States,USA,1988,Urban population (% of total),SP.URB.TOTL.IN.ZS,74.942
+United States,USA,1987,Urban population (% of total),SP.URB.TOTL.IN.ZS,74.793
+United States,USA,1986,Urban population (% of total),SP.URB.TOTL.IN.ZS,74.644
+United States,USA,1985,Urban population (% of total),SP.URB.TOTL.IN.ZS,74.494
+United States,USA,1984,Urban population (% of total),SP.URB.TOTL.IN.ZS,74.344
+United States,USA,1983,Urban population (% of total),SP.URB.TOTL.IN.ZS,74.194
+United States,USA,1982,Urban population (% of total),SP.URB.TOTL.IN.ZS,74.042
+United States,USA,1981,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.89
+United States,USA,1980,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.738
+United States,USA,1979,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.692
+United States,USA,1978,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.682
+United States,USA,1977,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.673
+United States,USA,1976,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.663
+United States,USA,1975,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.653
+United States,USA,1974,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.643
+United States,USA,1973,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.633
+United States,USA,1972,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.623
+United States,USA,1971,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.613
+United States,USA,1970,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.602
+United States,USA,1969,Urban population (% of total),SP.URB.TOTL.IN.ZS,73.333
+United States,USA,1968,Urban population (% of total),SP.URB.TOTL.IN.ZS,72.974
+United States,USA,1967,Urban population (% of total),SP.URB.TOTL.IN.ZS,72.612
+United States,USA,1966,Urban population (% of total),SP.URB.TOTL.IN.ZS,72.247
+United States,USA,1965,Urban population (% of total),SP.URB.TOTL.IN.ZS,71.879
+United States,USA,1964,Urban population (% of total),SP.URB.TOTL.IN.ZS,71.508
+United States,USA,1963,Urban population (% of total),SP.URB.TOTL.IN.ZS,71.134
+United States,USA,1962,Urban population (% of total),SP.URB.TOTL.IN.ZS,70.757
+United States,USA,1961,Urban population (% of total),SP.URB.TOTL.IN.ZS,70.377
+United States,USA,1960,Urban population (% of total),SP.URB.TOTL.IN.ZS,69.996
